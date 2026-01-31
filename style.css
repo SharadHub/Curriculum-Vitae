@@ -1,0 +1,47 @@
+body{
+    font-family: system-ui, sans-serif;
+    margin: 60px auto;
+    padding: 0;
+    line-height: 1.45;
+    color: #222;
+}
+
+.page-box{
+    margin: 3rem 20rem 5rem 20rem;
+    padding: 3rem;
+    outline: 3px solid black;
+}
+
+.break-line{
+    border: none;
+    border-top: 3px solid black;
+}
+
+h2{
+    color: #2e7d32;
+    font-size: 1.65rem;
+    margin: 48px 0 14px;
+    padding-bottom: 6px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.social-list{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 2rem;
+    color: blue;
+    /* list-style: none; */
+}
+
+.conn:hover{
+    color: black;
+}
+
+.conn:active{
+    color: red;
+}
