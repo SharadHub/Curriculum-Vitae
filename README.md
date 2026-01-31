@@ -1,1 +1,1 @@
-https://sharadhub.github.io/Curriculum-Vitae/
+Project URL: https://sharadhub.github.io/Curriculum-Vitae/
